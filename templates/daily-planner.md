@@ -1,9 +1,15 @@
-# Daily Task Management Template
+# Daily Planner Template
 
-## Today's Focus
-- [ ] Complete primary goal
-- [ ] Review pending items
-- [ ] Organize evening schedule
+## Date: [YYYY-MM-DD]
 
-## Notes
-Add your daily notes and reflections here.
+### Top Priorities
+1. 
+2. 
+3. 
+
+### To-Do List
+- [ ] Task 1
+- [ ] Task 2
+- [ ] Task 3
+
+### Notes & Reflections

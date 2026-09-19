@@ -1,12 +1,8 @@
-# Productivity & Daily Task Planner Template
+# Digital Productivity & Task Tracker Workspace
 
-A lightweight digital productivity template designed to help individuals organize tasks, manage time, and track goals efficiently.
+An open-source digital product and workspace designed for professionals and students to manage tasks, track goals, and boost daily productivity.
 
 ## Features
-- Daily Priority Matrix
-- Weekly Goal Tracker
-- Habit Tracker
-- Minimalist Markdown Layout
-
-## License
-MIT License
+- Task Management Board (Kanban style)
+- Daily & Weekly Planner Templates
+- Goal Tracking & Habit Building Log
