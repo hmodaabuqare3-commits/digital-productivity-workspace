@@ -1,8 +1,11 @@
-# Digital Productivity & Task Tracker Workspace
+# AI Productivity Notes & Task Templates
 
-An open-source digital product and workspace designed for professionals and students to manage tasks, track goals, and boost daily productivity.
+A comprehensive digital product suite designed to streamline personal organization, daily planning, and task management using Markdown and structured templates.
 
 ## Features
-- Task Management Board (Kanban style)
-- Daily & Weekly Planner Templates
-- Goal Tracking & Habit Building Log
+- **Daily Planner Template**: Structured sections for priority setting and time blocking.
+- **Task Tracker Database**: Clean Kanban and list view schemas.
+- **AI Prompts Library**: Ready-to-use prompts for summarizing and generating content.
+
+## License
+MIT License - Free to use and modify.
