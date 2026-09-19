@@ -1,15 +1,13 @@
-# Daily Planner Template
+# Daily Planner & Task Tracker Template
 
-## Date: [YYYY-MM-DD]
-
-### Top Priorities
+## Top Priorities for Today
 1. 
 2. 
 3. 
 
-### To-Do List
-- [ ] Task 1
-- [ ] Task 2
-- [ ] Task 3
-
-### Notes & Reflections
+## Schedule
+- 08:00 AM - Morning Routine & Review
+- 09:00 AM - Deep Work Session 1
+- 12:00 PM - Break & Rest
+- 01:00 PM - Deep Work Session 2
+- 04:00 PM - Wrap up & Planning Tomorrow
